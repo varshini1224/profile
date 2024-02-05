@@ -1,0 +1,11 @@
+body{
+    width: 100%;
+    background-image: url("low_poly_banner_design_1711.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: serif;
+}
+table, th, td {
+  border: 3px solid black;
+  border-collapse: collapse;
+}
